@@ -6,6 +6,7 @@ public class coil {
         int boil = 0;
         int coil = 2;
         System.out.println("coil better: " + (coil > boil));
-        x = 2;
+        int peterPan = -100;
+        System.out.println("Peter Pan better: " + (boil<peterPan));
     }
 }
