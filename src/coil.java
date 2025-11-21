@@ -6,5 +6,6 @@ public class coil {
         int boil = 1;
         int coil = 2;
         System.out.println("coil better: " + (coil > boil));
+        x = 2;
     }
 }
