@@ -8,5 +8,8 @@ public class coil {
         System.out.println("coil better: " + (coil > boil));
         int peterPan = -100;
         System.out.println("Peter Pan better: " + (boil<peterPan));
+        while (true){
+            System.out.println("1");
+        }
     }
 }
